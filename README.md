@@ -47,6 +47,16 @@ trabalho em trio da disciplina de desenvolvimento para dispositivos móveis
      <pre>npx sequelize-cli db:migrate</pre>
   6. Inicie o servidor:
      <pre>npm start</pre>
+## Contribuição
+Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga as etapas abaixo:
+  1. Fork o repositório.
+  2. Crie uma nova branch para suas alterações:
+<pre>git checkout -b feature/nome-da-sua-feature</pre>
+  3. Faça suas alterações e commit:
+<pre>git commit -m "Descrição da sua alteração"</pre>
+  4. Envie suas alterações para o repositório remoto:
+<pre>git push origin feature/nome-da-sua-feature</pre>
+  5. Crie um pull request.
 
 ## Autor
 Felipe Moreira Mares
