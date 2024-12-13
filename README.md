@@ -41,12 +41,12 @@ trabalho em trio da disciplina de desenvolvimento para dispositivos móveis
   1. Clone o repositório.
   2. Navegue até a pasta do backend.
   3. Instale as dependências:
-     <pre>```npm install```</pre>
+     <pre>npm install</pre>
   4. Configure as variáveis de ambiente no arquivo ```.env```.
   5. Rode as migrações no banco de dados:
-     <pre>```npx sequelize-cli db:migrate```</pre>
+     <pre>npx sequelize-cli db:migrate</pre>
   6. Inicie o servidor:
-     <pre>```npm start```</pre>
+     <pre>npm start</pre>
 
 ## Autor
 Felipe Moreira Mares
