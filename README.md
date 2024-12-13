@@ -4,12 +4,12 @@ trabalho em trio da disciplina de desenvolvimento para dispositivos móveis
 *O projeto consiste em um sistema que registra clientes, produtos e compras, operando com back-end e front-end*
 
 ##Tecnologias Utilizadas
--node.js
--mysql2
--mysql3
--express
--nodemon
--cors
+- node.js
+- mysql2
+- mysql3
+- express
+- nodemon
+- cors
 
 ## Funcionalidades
 
@@ -41,12 +41,12 @@ trabalho em trio da disciplina de desenvolvimento para dispositivos móveis
   1. Clone o repositório.
   2. Navegue até a pasta do backend.
   3. Instale as dependências:
-     ```npm install
+     ```npm install```
   4. Configure as variáveis de ambiente no arquivo *.env*.
   5. Rode as migrações no banco de dados:
-     ```npx sequelize-cli db:migrate
+     ```npx sequelize-cli db:migrate```
   6. Inicie o servidor:
-     ```npm start
+     ```npm start```
 
 ## Autor
 Felipe Moreira Mares
